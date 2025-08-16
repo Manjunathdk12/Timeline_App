@@ -1,0 +1,43 @@
+.project-card {
+  padding: 16px;
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.project-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.duration-container {
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.icon {
+  margin-right: 6px;
+  color: #1e293b;
+}
+
+.duration {
+  font-size: 14px;
+  color: #64748b;
+}
+
+.description {
+  font-size: 14px;
+  color: #475569;
+  margin: 8px 0;
+}
+
+.visit {
+  color: #2563eb;
+  font-weight: 500;
+  text-decoration: none;
+}

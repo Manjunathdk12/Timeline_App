@@ -1,0 +1,18 @@
+.chrono-container {
+  width: 90%;
+  margin: auto;
+}
+
+.heading {
+  text-align: center;
+  color: #1e293b;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.sub-heading {
+  text-align: center;
+  color: #1e293b;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
