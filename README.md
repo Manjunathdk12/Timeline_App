@@ -4,7 +4,7 @@ A responsive timeline web application built with React and react-chrono, showcas
 
 <br/> <div align="center"> <img src="https://assets.ccbp.in/frontend/content/react-js/ccbp-timeline-output.gif" alt="ccbp timeline output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)"> </div>
 📌 Features
-
+```
 Displays a timeline of Courses & Projects using react-chrono.
 
 CourseTimelineCard:
@@ -12,9 +12,9 @@ CourseTimelineCard:
 Shows course details, description, duration.
 
 Includes a clock icon from react-icons.
-
+```
 ProjectTimelineCard:
-
+```
 Displays project details with image preview.
 
 Includes a calendar icon from react-icons.
@@ -22,7 +22,7 @@ Includes a calendar icon from react-icons.
 Provides a Visit link to project URL.
 
 Fully responsive design for all screen sizes.
-
+```
 📂 Project Structure
 ```
 src/
